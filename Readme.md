@@ -1,0 +1,1 @@
+Olá, esse projeto foi feito durante um curso de git/github
